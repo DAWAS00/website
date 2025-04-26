@@ -1,0 +1,90 @@
+header {
+  background-color:rgb(103, 152, 84);
+  width: 100%; 
+  padding: 15px 0px;
+  
+
+}
+.logo h2 {
+  text-align: center;
+  color:rgb(5, 73, 36);
+  
+}
+nav {
+  width: 90%;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-links {
+  list-style: none;  
+  display: flex;  
+  gap: 70px;   
+  text-align: center;
+}
+
+.nav-links li a {
+  text-decoration: none; 
+  color: rgb(209, 209, 187) ;  
+  padding: 0.5rem 1rem ;
+  
+}
+.nav-links a:hover {
+  color: rgb(5, 73, 36);
+  text-decoration: underline;
+}
+   .content-center{
+    text-align:center;
+    background-color: rgb(218, 233, 212);
+    max-width: 100%;
+    padding: 1rem;
+    margin: 0%
+   }
+    .background-color {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    max-width: 100%;
+  }
+
+   .image-container{
+    width: 100px;
+    margin-left: 20px;
+    height: auto;}
+   .image-container img{
+    width: 100%;
+    height: auto;}
+    .table{
+      width: 80%;
+      text-align:center;
+      font-size: 18px;
+      margin: 25px;
+      background-color: rgb(218, 233, 212);
+     }
+     .table caption{
+      font-style: normal;
+      color: #4a6741;
+     }
+     .table td{
+      color:olive;
+      border: none;
+      padding: 12px 15px;
+   }
+   .table tr{
+      background-color: rgb(217, 226, 213);
+   }
+   .table h4{
+    color: olive;
+   }
+   .table h2{
+    color:#4a6741;
+   }
+   .table img{
+    width: 200px;
+    margin-left: 20px;
+   }
+  
+  
+    
+     
+   

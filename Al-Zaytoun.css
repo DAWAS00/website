@@ -1,0 +1,87 @@
+header {
+  background-color:rgb(103, 152, 84);
+  width: 100%; 
+  padding: 15px 0px;
+  
+
+}
+.logo h2 {
+  text-align: center;
+  color:rgb(5, 73, 36);
+  
+}
+nav {
+  width: 90%;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-links {
+  list-style: none;  
+  display: flex;  
+  gap: 70px;   
+  text-align: center;
+}
+
+.nav-links li a {
+  text-decoration: none; 
+  color: rgb(209, 209, 187) ;  
+  padding: 0.5rem 1rem ;
+  
+   
+}
+.nav-links a:hover {
+  color: rgb(5, 73, 36);
+  text-decoration: underline;
+}
+  .background-color {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    max-width: 100%; }
+
+.content-center{
+    text-align:center;
+    background-color: rgb(218, 233, 212);
+    max-width: 50%;
+ }
+.content-center h1{
+    color:#316322;
+      margin-bottom: 1.5rem;
+       text-align: center;
+       }
+.content-center p {
+        color:olive;
+      }
+.image-container{
+        width: 100px;
+        margin-left: 20px;
+        height: auto;
+       }
+ .image-container img{
+        width: 100%;
+        height: auto;
+       }
+      
+.center-list {
+        text-align:center;
+        background-color: rgb(218, 233, 212);
+        max-width: 100%;
+      }
+.center-list ol{
+        list-style: upper-roman;
+      }
+.center-list li{
+        text-align: left;
+        color:olive;
+      }
+      .image-container2{
+        width: 90%;
+        margin-left: 20px;
+        height: auto;
+        
+       }
+ .image-container2 img{
+        width: 100%;
+        height: auto;
+       }

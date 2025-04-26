@@ -1,0 +1,91 @@
+header {
+  background-color:rgb(103, 152, 84);
+  width: 100%; 
+  padding: 15px 0px;
+  
+
+}
+.logo h2 {
+  text-align: center;
+  color:rgb(5, 73, 36);
+  
+}
+nav {
+  width: 90%;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-links {
+  list-style: none;  
+  display: flex;  
+  gap: 70px;   
+  text-align: center;
+}
+
+.nav-links li a {
+  text-decoration: none; 
+  color: rgb(209, 209, 187) ;  
+  padding: 0.5rem 1rem ;
+  
+   
+}
+.nav-links a:hover {
+  color: rgb(5, 73, 36);
+  text-decoration: underline;
+}
+  .content-center{
+      text-align:center;
+      background-color:rgb(218, 233, 212);
+      max-width: 100%;
+      padding: 1rem;
+      margin: 0%;
+      font-style: italic;
+     }
+     .background-color {
+      display: flex;
+      justify-content: center;
+      padding: 20px;
+      max-width: 100%;
+     }
+     .content-center h2{
+      color:#4a6741;
+      margin-bottom: 1.5rem;
+      text-align: center;
+      
+     }
+     .content-center h3{
+      color: olive;
+      line-height: 1.6;
+      text-align: center;
+     }
+     .reasources-container{
+      padding: 2px;
+     }
+     .reasources-content {
+       display: flex;
+       gap: 2rem;
+       margin: 0 auto;
+       align-items:center;
+     }
+     .image-container{
+      width: 100px;
+      margin-left: 20px;
+      height: auto;
+     }
+     .image-container img{
+      width: 100%;
+      height: auto;
+  
+     }
+     .center{
+      background-color: rgb(227, 236, 228);
+      max-width: 100%;
+      padding: 1rem;
+      margin: 0%;
+      text-align: center;
+  
+     }
+    .center h2{
+  font-style: italic;
+    }
